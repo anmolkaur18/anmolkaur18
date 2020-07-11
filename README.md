@@ -11,7 +11,7 @@ Projects and Hackathons
 ![GitHub followers](https://img.shields.io/github/followers/anmolkaur18?style=social)
 ![Twitter Follow](https://img.shields.io/twitter/follow/LearningAK__?style=social)
 [![Linkedin Badge]
-(https://img.shields.io/badge/-Anmol-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/anmol-kaur-04ba1b190)](https://www.linkedin.com/in/anmol-kaur-04ba1b190)
+()](https://www.linkedin.com/in/anmol-kaur-04ba1b190)
 
 - 🔭 I’m currently working on Javascript projects
 - 🌱 I’m currently learning data structures and full stack web development
