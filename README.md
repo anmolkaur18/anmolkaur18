@@ -6,13 +6,12 @@
 Here are some ideas to get you started:
 Projects and Hackathons
 -->
-![GitHub followers](https://img.shields.io/github/followers/anmolkaur18?label=Follow&logoColor=pink&style=social) 
-![Twitter Follow](https://img.shields.io/twitter/follow/_AnmolKaur_?label=Follow&style=social)
-![Twitter Follow](https://img.shields.io/twitter/follow/LearningAK__?label=Follow&style=social)
-<p>
-  <a href="https://www.linkedin.com/in/anmol-kaur-04ba1b190" rel="nofollow noreferrer">
-    <img src="https://i.stack.imgur.com/gVE0j.png" alt="linkedin"> LinkedIn
-  </a> &nbsp; 
+
+![Twitter Follow](https://img.shields.io/twitter/follow/_AnmolKaur_?style=social)
+![GitHub followers](https://img.shields.io/github/followers/anmolkaur18?style=social)
+![Twitter Follow](https://img.shields.io/twitter/follow/LearningAK__?style=social)
+[![Linkedin Badge]
+(https://img.shields.io/badge/-Anmol-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/anmol-kaur-04ba1b190)](https://www.linkedin.com/in/anmol-kaur-04ba1b190)
 
 - 🔭 I’m currently working on Javascript projects
 - 🌱 I’m currently learning data structures and full stack web development
