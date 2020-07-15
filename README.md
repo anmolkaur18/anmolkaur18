@@ -6,10 +6,9 @@
 Here are some ideas to get you started:
 Projects and Hackathons
 -->
-
-![Twitter Follow](https://img.shields.io/twitter/follow/_AnmolKaur_?style=social)![Twitter Follow](https://img.shields.io/twitter/follow/LearningAK__?style=social)
-![GitHub followers](https://img.shields.io/github/followers/anmolkaur18?style=social) 
 [![Anmol Kaur LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=social&logo=LinkedIn)](https://www.linkedin.com/in/anmol-kaur-04ba1b1907)
+![](https://img.shields.io/twitter/follow/_AnmolKaur_?style=social)![Twitter Follow](https://img.shields.io/twitter/follow/LearningAK__?style=social)
+![GitHub followers](https://img.shields.io/github/followers/anmolkaur18?style=social) 
 
 - 🔭 I’m currently working on Javascript projects
 - 🌱 I’m currently learning data structures and full stack web development
