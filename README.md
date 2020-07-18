@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 Projects and Hackathons
 -->
-[![linkedin badge](https://img.shields.io/badge/Anmol_Kaur-30302f?style=flat&logo=linkedin)](https://www.linkedin.com/in/anmol-kaur-04ba1b1907)
+[![linkedin badge](https://img.shields.io/badge/Anmol_Kaur-30302f?style=flat&logo=linkedin)](https://www.linkedin.com/in/anmol-kaur-04ba1b190)
 [![twitter badge](https://img.shields.io/badge/@_AnmolKaur_-30302f?style=flat&logo=twitter)](https://twitter.com/_AnmolKaur_)
 
 
@@ -17,6 +17,6 @@ Projects and Hackathons
 ✨ 👉https://sourcerer.io/anmolkaur18
 
 <!--
-[![Anmol Kaur LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=social&logo=LinkedIn)](https://www.linkedin.com/in/anmol-kaur-04ba1b1907)
+[![Anmol Kaur LinkedIn](https://img.shields.io/badge/LinkedIn-black?style=flat&logo=linkedin)](https://www.linkedin.com/in/anmol-kaur-04ba1b1907)
 ![](https://img.shields.io/twitter/follow/_AnmolKaur_?style=social)![](https://img.shields.io/twitter/follow/LearningAK__?style=social) 
 -->
