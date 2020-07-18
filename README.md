@@ -6,15 +6,17 @@
 Here are some ideas to get you started:
 Projects and Hackathons
 -->
-[![Anmol Kaur LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=social&logo=LinkedIn)](https://www.linkedin.com/in/anmol-kaur-04ba1b1907)
-![](https://img.shields.io/twitter/follow/_AnmolKaur_?style=social)![Twitter Follow](https://img.shields.io/twitter/follow/LearningAK__?style=social)
-![GitHub followers](https://img.shields.io/github/followers/anmolkaur18?style=social) 
+[![linkedin badge](https://img.shields.io/badge/Anmol_Kaur-30302f?style=flat&logo=linkedin)](https://www.linkedin.com/in/anmol-kaur-04ba1b1907)
+[![twitter badge](https://img.shields.io/badge/@_AnmolKaur_-30302f?style=flat&logo=twitter)](https://twitter.com/_AnmolKaur_)
 
-- 🔭 I’m currently working on Javascript projects
-- 🌱 I’m currently learning data structures and full stack web development
+
+- 🔭 I’m currently learning data structures and web development
 - 👯 I’m looking to collaborate on Projects and Hackathons 
-- 😄 Pronouns: She/Her
 - ⚡ Fun fact: I enjoy literature and trying poetry
 
+✨ 👉https://sourcerer.io/anmolkaur18
 
-👉https://sourcerer.io/anmolkaur18
+<!--
+[![Anmol Kaur LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=social&logo=LinkedIn)](https://www.linkedin.com/in/anmol-kaur-04ba1b1907)
+![](https://img.shields.io/twitter/follow/_AnmolKaur_?style=social)![](https://img.shields.io/twitter/follow/LearningAK__?style=social) 
+-->
