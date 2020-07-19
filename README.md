@@ -15,9 +15,9 @@ Projects and Hackathons
 - 👯 I’m looking to collaborate on Projects and Hackathons 
 - ⚡ Fun fact: I enjoy literature and writing poems✨
 
-🚀 You can find more about me on [Sourcerer](https://sourcerer.io/anmolkaur18) and [Linktree](https://linktr.ee/anmolkaur)
+🚀 You can find more about me on [Sourcerer](https://sourcerer.io/anmolkaur18)<!-- and [Linktree](https://linktr.ee/anmolkaur) -->
 
-<!--
+ <!--
 [![Anmol Kaur LinkedIn](https://img.shields.io/badge/LinkedIn-black?style=flat&logo=linkedin)](https://www.linkedin.com/in/anmol-kaur-04ba1b1907)
 ![](https://img.shields.io/twitter/follow/_AnmolKaur_?style=social)![](https://img.shields.io/twitter/follow/LearningAK__?style=social) 
 -->
