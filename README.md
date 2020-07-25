@@ -14,7 +14,7 @@ Projects and Hackathons
 
 - 👩🏻‍💻 I’m currently learning data structures and web development
 - 👯 I’m looking to collaborate on Projects and Hackathons 
-- ⚡ Fun fact: I enjoy literature and writing poems✨
+- ⚡ Fun fact: I enjoy literature, writing poems and learning new languages✨
 
 🚀 Find more on [Sourcerer](https://sourcerer.io/anmolkaur18)<!-- and [Linktree](https://linktr.ee/anmolkaur) -->
 
