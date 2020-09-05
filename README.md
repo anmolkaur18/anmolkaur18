@@ -14,7 +14,7 @@ Projects and Hackathons
 - 👩🏻‍💻 I’m currently learning Data Structures and Web Development
 - 👯 I’m looking to collaborate on Projects and Hackathons 
 - ⚡ Fun fact: I enjoy reading Literature and Writing Poems ✨
-- 🌈 Random :) I am SlyhterClaw 🧙 and INTP 🧐
+- 🌈 Random :) I am SlytherClaw 🧙 and INTP 🧐
 
 🚀 [Sourcerer](https://sourcerer.io/anmolkaur18)<!-- and [Linktree](https://linktr.ee/anmolkaur) -->
 
