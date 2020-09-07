@@ -7,9 +7,9 @@ Here are some ideas to get you started:
 Projects and Hackathons
 -->
 [![linkedin badge](https://img.shields.io/badge/Anmol_Kaur-30302f?style=flat&logo=linkedin)](https://www.linkedin.com/in/anmol-kaur-04ba1b190)
-[![twitter badge](https://img.shields.io/badge/@_AnmolKaur_-30302f?style=flat&logo=twitter)](https://twitter.com/_AnmolKaur_)
 [![instagram badge](https://img.shields.io/badge/AnmolKaur_-30302f?style=flat&logo=instagram)](https://www.instagram.com/realanmolkaur/)
-[![medium badge](https://img.shields.io/badge/AnmolKaurMinhas_-30302f?style=flat&logo=medium)](https://medium.com/@anmolkaurminhas)
+<!--[![twitter badge](https://img.shields.io/badge/@_AnmolKaur_-30302f?style=flat&logo=twitter)](https://twitter.com/_AnmolKaur_) -->
+<!-- [![medium badge](https://img.shields.io/badge/AnmolKaurMinhas_-30302f?style=flat&logo=medium)](https://medium.com/@anmolkaurminhas) -->
 
 - 👩🏻‍💻 I’m currently learning Data Structures and Web Development
 - 👯 I’m looking to collaborate on Projects and Hackathons 
