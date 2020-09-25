@@ -2,7 +2,7 @@
 
 ### I'm Anmol :) Here's a little bit about me:
 
-- I am a sophomore at University of Delhi majoring in **Computer Science and minoring in Psychology**
+- I am a sophomore majoring in **Computer Science and minoring in Psychology**
 - I am currently Developer Student Club Lead powered by **Google Developers** and **Microsoft** Learn Student Ambassador
 - I have participated and won in many **Science Fairs**
 - I love collaborating on team projects and competing in hackathons
