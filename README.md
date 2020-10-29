@@ -1,4 +1,4 @@
-## Hi there 👩🏻‍💻 [![linkedin badge](https://img.shields.io/badge/Anmol_Kaur-30302f?style=flat&logo=linkedin)](https://www.linkedin.com/in/anmol-kaur-04ba1b190) [![twitter badge](https://img.shields.io/badge/@_AnmolKaur_-30302f?style=flat&logo=twitter)](https://twitter.com/_AnmolKaur_) [![codepen badge](https://img.shields.io/badge/AnmolKaur_-30302f?style=flat&logo=codepen)](https://www.codepen.io/anmolkaur18/)
+## Hi there 👩🏻‍💻 [![linkedin badge](https://img.shields.io/badge/Anmol_Kaur-30302f?style=flat&logo=linkedin)](https://www.linkedin.com/in/anmol-kaur-04ba1b190) [![twitter badge](https://img.shields.io/badge/@_AnmolKaur_-30302f?style=flat&logo=twitter)](https://twitter.com/_AnmolKaur_) [![codepen badge](https://img.shields.io/badge/AnmolKaur_-30302f?style=flat&logo=codepen)](https://www.codepen.io/anmolkaur18/) [![instagram badge](https://img.shields.io/badge/AnmolKaur_-30302f?style=flat&logo=instagram)](https://www.instagram.com/realanmolkaur/)
 
 ### I'm Anmol :) Here's a little bit about me:
 
