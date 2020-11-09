@@ -2,13 +2,10 @@
 
 ### I'm Anmol :) Here's a little bit about me:
 
-- I am a sophomore majoring in **Computer Science and minoring in Psychology**
-- I am currently Developer Student Club Lead powered by **Google Developers** and **Microsoft** Learn Student Ambassador
-<!-- - I have participated and won in many **Science Fairs** -->
-- I love collaborating on team projects and competing in hackathons
-- I am proficient in C++, Python, Arduino, HTML/CSS and Google Cloud Platfrom ....check out my [Sourcerer](https://sourcerer.io/anmolkaur18)
-- I enjoy literature, problem-solving <!--going on bike rides--> and philosophy 
-
+- I am a sophomore majoring in **Computer Science**💻
+- Currently Developer Student Club Lead powered by **Google Developers** and **Microsoft** Learn Student Ambassador⚡
+- Proficient in C++, Python, Arduino, HTML/CSS and Google Cloud Platfrom ...Check out [Sourcerer](https://sourcerer.io/anmolkaur18)🍀
+- I enjoy studying psychology<!--going on bike rides--> & philosophy, literature and solving problems✨
 <!--
 Here are some ideas to get you started:
 
