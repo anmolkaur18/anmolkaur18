@@ -2,7 +2,7 @@
 ### I'm Anmol :) Here's a little bit about me:
 - 💻Sophomore majoring in **Computer Science**
 - ⚡ Developer Student Club **Lead** powered by **Google Developers** and **Microsoft Learn Student Ambassador**
-- 👩🏻‍💻 Learning Futter, Data Structures 
+- 👩🏻‍💻 Learning Full Stack Web Development & Data Structures 
 - ✨ I enjoy studying psychology<!--going on bike rides-->,philosophy, literature and meditating
 - 🍀 Check my sourcerer account [Sourcerer](https://sourcerer.io/anmolkaur18)
 
