@@ -3,7 +3,7 @@
 - 💻Sophomore majoring in **Computer Science**
 - ⚡ Developer Student Club **Lead** powered by **Google Developers** and **Microsoft Learn Student Ambassador**
 - 👩🏻‍💻 Learning Full Stack Web Development & Data Structures 
-- ✨ I enjoy studying psychology<!--going on bike rides-->,philosophy, literature and meditating
+<!-- - ✨ I enjoy studying psychology going on bike ride,philosophy, literature and meditating  -->
 - 🍀 Check my sourcerer account [Sourcerer](https://sourcerer.io/anmolkaur18)
 
 <a href="https://github.com/anmolkaur18">
