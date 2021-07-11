@@ -1,11 +1,12 @@
-## Hi there
+## Hey  👋
+<!--
 ### I'm Anmol :) Here's a little bit about me:
 - 💻Sophomore majoring in **Computer Science**
-- ⚡ Developer Student Club **Lead** powered by **Google Developers** and **Microsoft Learn Student Ambassador**
+- ⚡ Google Developer Student Club **Lead**  and **Microsoft Learn Student Ambassador**
 - 👩🏻‍💻 Learning Full Stack Web Development & Data Structures 
-<!-- - ✨ I enjoy studying psychology going on bike ride,philosophy, literature and meditating  -->
+ - ✨ I enjoy studying psychology going on bike ride,philosophy, literature and meditating  
 - 🍀 Check my sourcerer account [Sourcerer](https://sourcerer.io/anmolkaur18)
-
+-->
 <a href="https://github.com/anmolkaur18">
  <img align="left" src="https://github-readme-stats.vercel.app/api?username=anmolkaur18&show_icons=true&theme=light&line_height=27" alt="Anmol Kaur's github stats"/>
 </a>
